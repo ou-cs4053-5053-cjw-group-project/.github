@@ -8,6 +8,8 @@ The group project of Caleb Guinn, Jose Saldivar, and William Wilson.
 # Useful Links
 
 [Shadertoy](https://www.shadertoy.com/new) - Learn by doing. Write, compile, and run shaders in your browser. Learn GLSL (the shader language) and apply techniques from other resources without having to write all the Java+OpenGL boilerplate!
+* [Art of Code - Shadertoy Tutorial Series](https://youtube.com/playlist?list=PLGmrMu-IwbguU_nY2egTFmlg691DN7uE5) - A video series covering basic fragment shader designs using math to define shapes and apply effects.
+* [Stackoverflow Shadertoy to OpenGL](https://stackoverflow.com/a/70131254) - A stack overflow answer which explains how to port a Shadertoy shader to OpenGL.
 
 [docs.gl](https://docs.gl/) - Online, searchable, filterable (by OpenGL version) documentation for OpenGL functions.
 
